@@ -1,3 +1,3 @@
-def firstFuncion(String name = "default"){
+def firstFuncion(name){
 echo "Hello this is ${name}"
 }
